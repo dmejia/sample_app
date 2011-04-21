@@ -1,0 +1,28 @@
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch static-pages
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	modified:   Gemfile
+#	modified:   Gemfile.lock
+#	modified:   app/controllers/pages_controller.rb
+#	deleted:    app/views/layouts/application.html.erb
+#	modified:   app/views/pages/contact.html.erb
+#	modified:   app/views/pages/home.html.erb
+#	modified:   config/routes.rb
+#	modified:   spec/controllers/pages_controller_spec.rb
+#	deleted:    spec/helpers/pages_helper_spec.rb
+#	deleted:    spec/views/pages/contact.html.erb_spec.rb
+#	deleted:    spec/views/pages/home.html.erb_spec.rb
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	.rspec
+#	app/views/pages/about.html.erb
+#	autotest/
+#	db/schema.rb
+#	spec/spec_helper.rb
